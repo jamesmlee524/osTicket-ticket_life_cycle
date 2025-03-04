@@ -47,20 +47,37 @@ As Help Desk Agent (John) and observe ticket properties:
   <li>Assigned To</li>
 </ul>
 <img width="1536" alt="Screenshot 2025-03-03 at 1 58 56 PM" src="https://github.com/user-attachments/assets/cdb8765f-e54b-44ae-a353-9a4b642a4484" />
+<img width="1536" alt="Screenshot 2025-03-04 at 11 55 51 AM" src="https://github.com/user-attachments/assets/a2651153-fc2c-478d-ab98-8000cf2ad197" />
+
 <img width="1536" alt="Screenshot 2025-03-03 at 2 08 55 PM" src="https://github.com/user-attachments/assets/9499a884-a3dd-4505-a302-f630007336a5" />
 <img width="1536" alt="Screenshot 2025-03-03 at 2 09 34 PM" src="https://github.com/user-attachments/assets/da04fcb2-22d1-4a6d-9991-374801eef751" />
 
 
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
+<br />
+<p>
+Because of the SLA level and the wide impact we need to change the priority and address this ticket right away.
+</p>
+<img width="1536" alt="Screenshot 2025-03-04 at 12 02 38 PM" src="https://github.com/user-attachments/assets/781336e1-bd23-47ba-a0e4-702cf7d7ba5b" />
+<img width="1536" alt="Screenshot 2025-03-04 at 12 03 33 PM" src="https://github.com/user-attachments/assets/c43bdb06-5555-4c20-b3a3-8a68e32c7f19" />
 
+<br/>
+<br/>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The ticket has been assigned to the proper managment team (online banking) and now Jane will address the issue.
 </p>
+<img width="1536" alt="Screenshot 2025-03-04 at 12 05 43 PM" src="https://github.com/user-attachments/assets/43b60042-b68f-42b1-b650-c2fc2eba64a0" />
+<img width="1536" alt="Screenshot 2025-03-04 at 12 05 31 PM" src="https://github.com/user-attachments/assets/e9c1ac44-4722-41d3-a3dd-2f1b09feb0f2" />
+
+
+<br/>
+<br/>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Jane resolves the ticket recognizing that the update was the cause of the outage. She rolls back the update and then sets the ticket as resolved.
 </p>
+<img width="1536" alt="Screenshot 2025-03-04 at 12 05 31 PM" src="https://github.com/user-attachments/assets/791a76dc-5503-4f9c-ae8b-8c877097d5f8" />
+<img width="1536" alt="Screenshot 2025-03-04 at 1 01 21 PM" src="https://github.com/user-attachments/assets/66ff932f-3c13-4afc-8880-36ecc1f63942" />
+
+
+
 <br />
